@@ -1,0 +1,11 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+    flex-wrap: wrap;
+    background-color: #890F0D;
+    color: #E83A14;
+    box-shadow: 10px 5px 5px black;
+    font-size: 12px;
+  }
